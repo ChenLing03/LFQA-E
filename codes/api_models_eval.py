@@ -17,10 +17,8 @@ from typing import Tuple
 import openai
 from openpyxl import Workbook
 
-# openai.api_key = "your_api_key"  # TODO: replace with real key or env var
-# openai.base_url = "your_base_url"  # openai==1.x
-openai.api_key = "sk-fa663c1cb5594070b258310e4ba99d40"
-openai.base_url = "https://api.deepseek.com"   
+openai.api_key = "your_api_key"
+openai.base_url = "your_base_url"   
 MODEL_NAME = "deepseek-reasoner"
 
 
