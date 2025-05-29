@@ -56,9 +56,9 @@ The LFQA-E benchmark can be used to evaluate a range of automatic evaluation met
 ## Methodology
 
 LFQA-E evaluates the ability of different metrics to differentiate between two nuanced responses. The evaluation is performed using three settings:
-1. **Human vs Human **
-2. **Human vs Model **
-3. **Model vs Model **
+1. **Human vs Human**
+2. **Human vs Model**
+3. **Model vs Model**
 
 ### Data Collection Process
 - **Sources**: Data was sourced from online platforms like Reddit/ELI5 for English and academic examination papers for Chinese.
