@@ -7,7 +7,7 @@ Long-form Question Answering (LFQA) involves generating detailed, paragraph-leve
 LFQA-E includes:
 - **1625 questions**
 - **7649 comparisons**
-- **15 diverse topics** such as engineering, law, biology, and more.
+- **15 diverse topics** such as engineering, law, biology, etc.
 
 This benchmark provides expert-annotated reference answers, ensuring a more accurate and reliable evaluation process.
 
